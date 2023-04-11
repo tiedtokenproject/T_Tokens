@@ -1,0 +1,10 @@
+{
+	"BSC": {
+      "project token TTP": "0xb03CA37E5A8B7DaF95cFf1afF097D14803B52114",
+      "tied USDT": ""
+  },
+	"BSC testnet": {
+      "project token TTP": "0x9982DE9385B9307dE02A47319078A6F40dD1eE9C",
+      "tied USDT": ""
+  }
+}
