@@ -1,7 +1,8 @@
 {
 	"BSC": {
       		"project token TTP": "0xb03CA37E5A8B7DaF95cFf1afF097D14803B52114",
-      		"tied USDT":         "0x078213C0d9a4d347d3a44Af13C4ea0CF2C12Ba2D",
+      		//"tied USDT":         "0x078213C0d9a4d347d3a44Af13C4ea0CF2C12Ba2D", // old
+      		"tied USDT":         "0x0a1a5530Fc9F8cA0Ae8c8d1Fe45D5bfC1e442564",
 		"USDT":              "0x55d398326f99059ff775485246999027b3197955"
   	},
 	"BSC testnet": {
