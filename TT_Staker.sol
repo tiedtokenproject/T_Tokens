@@ -129,10 +129,12 @@ contract TT_Staker is Ownable {
 //        stakingToken = IERC20(0xE06c3CABDC1011426a65a0718A0C7c4410840550);
     }
 
-	// Received tokens processing
-	function receiveToken() {
-	
-	}
+    // Received tokens processing
+    function receiveToken() {
+	// token hold calls approve() on the token to give the contract permission to move tokens. 
+	// The user then might be able to interact with that contract's token payment functions for 
+	// whatever and however they've been written.
+    }
 
     function stake(uint _amount) public {
         _totalSupply += _amount;
